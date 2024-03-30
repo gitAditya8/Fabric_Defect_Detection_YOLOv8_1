@@ -28,7 +28,7 @@ with st.sidebar:
 
 # Creating main page heading
 st.title("Object Detection")
-st.caption('Updload a photo of defected fabric.')
+st.caption('Upload a photo of fabric.')
 st.caption('Then click the : Detect Objects button and check the result.')
 # Creating two columns on the main page
 col1, col2 = st.columns(2)
